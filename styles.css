@@ -1,0 +1,92 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+html {
+    display: block;
+}
+h1 {
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+    font-family: arial;
+}
+
+element.style {
+}
+.menu {
+    width: 25%;
+    float: left;
+}
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+div {
+    display: block;
+}
+h2 {
+    text-align: center;
+    color: maroon;
+    font-size: 30px;
+    font-family: tahoma, verdana, arial;
+}
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+user agent stylesheet
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
+#navegacion {
+    background-color: purple;
+    padding: 5px 0px;
+}
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+div {
+    display: block;
+}
+#enlaces {
+    background-color: yellow;
+    width: 90%;
+    border: 5px double red;
+}
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+div {
+    display: block;
+}
+p {
+    text-align: justify;
+    margin: 1em 10em;
+    font-family: verdana, nimrod, tahoma;
+    font-size: 14px;
+    color: navy;
+}
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+user agent stylesheet
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
